@@ -27,7 +27,7 @@ Recipe names:  <br/>
 - tess-teapot-depth : Varies the amount of tessellation with depth <br/>
 
 result : bez-curve <br/>
-<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter05/result/screenshot_bez_curve.png" width="300" /><br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter06/result/screenshot_bez_curve.png" width="300" /><br/>
 
 
 ### Reference <br/>

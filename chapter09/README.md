@@ -25,6 +25,9 @@ Recipe names:  <br/>
 - wave : a plane wave displacement animation <br/>
 
 
+result : fire <br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter09/result/screenshot_fire.png" width="300" /><br/>
+
 
 ### Reference <br/>
 - https://www.opengl.org/

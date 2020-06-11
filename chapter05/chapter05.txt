@@ -1,0 +1,39 @@
+cd /Users/ohwada/C++_glslcookbook/chapter05
+
+g++ src/*.cpp  ../ingredients/*.cpp ../glad/glad.c  -std=c++11  -framework OpenGL `pkg-config --cflags --libs glfw3` `pkg-config --cflags --libs glm` -I../ingredients -I../include
+
+
+ohwada@ohwada-MacBook-Air chapter01 % ./a.out
+Usage: ./a.out recipe-name
+
+Recipe names: 
+        basic : Basic scene.
+  basic-attrib : Prints active attributes.
+  basic-debug : Display debug messages.
+  basic-uniform : Basic scene with a uniform variable.
+  basic-uniform-block : Scene with a uniform block variable.
+
+
+
+make
+
+=====
+./chapter01
+Usage: ./chapter01 recipe-name
+
+Recipe names: 
+        basic : Basic scene.
+  basic-attrib : Prints active attributes.
+  basic-debug : Display debug messages.
+  basic-uniform : Basic scene with a uniform variable.
+  basic-uniform-block : Scene with a uniform block variable.
+
+====
+% ./chapter01 basic
+-------------------------------------------------------------
+GL Vendor    : Intel Inc.
+GL Renderer  : Intel(R) HD Graphics 6000
+GL Version   : 4.1 INTEL-14.4.23
+GL Version   : 4.1
+GLSL Version : 4.10
+

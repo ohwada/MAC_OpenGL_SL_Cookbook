@@ -21,13 +21,14 @@ g++ src/*.cpp  ../ingredients/*.cpp ../glad/glad.c  -std=c++11  -framework OpenG
 Usage: ./a.out recipe-name <br/>
 
 Recipe names:  <br/>
-- ads : Ambient, diffuse, and specular shading. <br/>
-- diffuse : Diffuse shading only <br/>
-- discard : Example of discarding fragments <br/>
-- flat : Flat shading <br/>
-- subroutine : Using a shader subroutine <br/>
-- two-side : Two-sided lighting <br/>
+- basic : Basic scene. <br/>
+- basic-attrib : Prints active attributes. <br/>
+- basic-debug : Display debug messages. <br/>
+- basic-uniform : Basic scene with a uniform variable. <br/>
+- basic-uniform-block : Scene with a uniform block variable. <br/>
 
+result : basic <br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter01/result/screenshot_basic.png" width="300" /><br/>
 
 
 ### Reference <br/>

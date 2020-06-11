@@ -25,6 +25,10 @@ Usage: ./a.out recipe-name <br/>
 - sampler-obj : Sampler objects <br/> 
 - texture : Basic texture mapping <br/>
 
+result : texture <br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter04/result/screenshot_texture.png" width="300" /><br/>
+
+
 ### Reference <br/>
 - https://www.opengl.org/
 - https://github.com/daw42/glslcookbook/tree/master/chapter04

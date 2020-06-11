@@ -30,6 +30,9 @@ blur : Gaussian blur <br/>
 oit example is not supported on MacOS. <br/>
 - tone-map : tone mapping example. <br/>
 
+result : blur <br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter05/result/screenshot_blur.png" width="300" /><br/>
+
 
 ### Reference <br/>
 - https://www.opengl.org/

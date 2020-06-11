@@ -21,6 +21,9 @@ Recipe names:  <br/>
 - shadow-map : Simple shadow map  <br/>
 - shadow-volume : Shadow Volumes using geometry shader.  <br/>
 
+result : ao <br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter07/result/screenshot_ao.png" width="300" /><br/>
+
 
 ### Reference <br/>
 - https://www.opengl.org/

@@ -23,6 +23,9 @@ Recipe names:  <br/>
 - sky : clouds and sky <br/>
 - wood : wood  <br/>
 
+result : decay <br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter08/result/screenshot_decay.png" width="300" /><br/>
+
 
 ### Reference <br/>
 - https://www.opengl.org/

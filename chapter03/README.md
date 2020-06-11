@@ -26,6 +26,10 @@ Recipe names:  <br/>
 - spot : Spot light <br/>
 - toon : Toon shading <br/>
 
+result : directional <br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter03/result/screenshot_directinal.png" width="300" /><br/>
+
+
 ### Reference <br/>
 - https://www.opengl.org/
 - https://github.com/daw42/glslcookbook/tree/master/chapter03

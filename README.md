@@ -2,10 +2,14 @@ MAC_OpenGL_SL_Cookbook
 ===============
 
 Sample Codes for OpenGL 4 Shading Language Cookbook <br/>
-bookcover.jpg
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/images/bookcover.jpg" width="300" /><br/>
 
 the sample codes in this repository are downloaded from the site below <br/>
 https://github.com/daw42/glslcookbook/ <br/>
+
+### exsample
+Chapter 1 : Basic scene. <br/> <br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_SL_Cookbook/master/chapter01/result/screenshot_basic.png" width="300" /><br/>
 
 ### System Environment
 confirmed the operation of the program in the following System Environment   <br/>
